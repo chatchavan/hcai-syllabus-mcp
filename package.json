@@ -1,0 +1,20 @@
+{
+  "name": "hcai-syllabus-mcp",
+  "version": "1.0.0",
+  "description": "LM Studio plugin exposing the HCAI course syllabus as tools for LLM tool use",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lms dev",
+    "push": "lms push"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lmstudio/sdk": "1.4.0",
+    "zod": "3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "typescript": "^5.5.4"
+  }
+}

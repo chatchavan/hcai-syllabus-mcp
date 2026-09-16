@@ -1,0 +1,7 @@
+{
+  "type": "plugin",
+  "runner": "node",
+  "owner": "chatchavan",
+  "name": "hcai-syllabus",
+  "revision": 5
+}
